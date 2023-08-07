@@ -63,13 +63,13 @@ ApiKey: "YOUR_TOKEN" # 修改这里
 
 2. 修改 `install.sh` 文件的203行，将用户名 `missuo` 修改为你自己的GitHub用户名。
 ```
-wget https://cdn.jsdelivr.net/gh/missuo/XrayR-V2Board/config.yml -O /etc/XrayR/config.yml
+wget https://github.com/missuo/XrayR-V2Board/config.yml -O /etc/XrayR/config.yml
 ```
 
 3. 修改下面链接的用户名 `missuo` 为你自己的GitHub用户名，完成配置一键安装脚本命令。
 ### x86_64
 ```
-bash <(curl -Ls https://cdn.jsdelivr.net/gh/PanelBackup/XrayR-V2Board/install.sh)
+bash <(curl -Ls https://github.com/PanelBackup/XrayR-V2Board/install.sh)
 ```
 ### ARM_64
 ```

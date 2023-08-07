@@ -8,7 +8,7 @@
  * 
  * Copyright © 2022 by Vincent, All Rights Reserved. 
 -->
-English | [简体中文](https://github.com/missuo/XrayR-V2Board/blob/main/README_CN.md)
+English | [简体中文](https://github.com/PanelBackup/XrayR-V2Board/blob/main/README_CN.md)
 
 [Speed up your nodes with Amazon CDN (CloudFront)](https://github.com/missuo/XrayR-V2Board/blob/main/CloudFront.md)
 

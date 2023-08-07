@@ -8,7 +8,7 @@ Nodes:
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
       ApiHost: "https://www.ccjj.icu" # 修改这里
-      ApiKey: "ghbcqccjjicughbcq" # 修改这里
+      ApiKey: "icuicuicuicuicu666666" # 修改这里
       NodeID: 6
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
